@@ -106,8 +106,7 @@ python3 test.py  # 模型测试
 </p>
 
 ## 参考文献
-
-## 附录
+[1] Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747
 
 ### 代码链接
 
@@ -115,4 +114,7 @@ GitHub Repository: [链接](https://github.com/zjx-827/Image_classification)
 
 ### 模型权重下载地址
 
-[链接]
+[链接](https://pan.baidu.com/s/1JNZ71DJcC_Ph9lIEGeKZNA?pwd=13jm)
+
+提取码：13jm 
+
