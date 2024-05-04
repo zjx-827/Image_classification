@@ -80,7 +80,7 @@ python3 test.py  # 模型测试
 
 #### 2. 学习率
 
-当训练更大的模型（$1024 \times 128$）时，设置学习率为1e-3时，出现loss震荡的现象，如下图所示。(model_4)
+当训练更大的模型($1024 \times 128$)时，设置学习率为1e-3时，出现loss震荡的现象，如下图所示。(model_4)
 <p align="center">
 <img src="./model/model_4/myplot.png" alt="训练过程" width="500" height="250">
 </p>
