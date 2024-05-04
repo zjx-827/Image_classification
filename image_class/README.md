@@ -111,7 +111,7 @@ python3 test.py  # 模型测试
 
 ### 代码链接
 
-GitHub Repository: [链接]([https://github.com/zjx-827/Image_classification])
+GitHub Repository: [链接](https://github.com/zjx-827/Image_classification)
 
 ### 模型权重下载地址
 
